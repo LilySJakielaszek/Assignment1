@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Lily Jakielaszek's GitHub Assingment1 Page 
 
 You can use the [editor on GitHub](https://github.com/LilySJakielaszek/Assignment1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
